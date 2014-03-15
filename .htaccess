@@ -1,0 +1,2 @@
+RewriteEngine on 
+RewriteRule ^post/(.*)$ ./detailberita.php?id=$1
